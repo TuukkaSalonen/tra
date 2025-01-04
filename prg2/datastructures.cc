@@ -1,8 +1,6 @@
 // Datastructures.cc
 //
 // Student name: Tuukka Salonen
-// Student email: tuukka.t.salonen@tuni.fi
-// Student number: 151125973
 
 #include "datastructures.hh"
 
